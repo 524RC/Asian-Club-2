@@ -10,16 +10,16 @@ body, html {
 .navbar{
 	background-color:#2A3673;
 }
-.navy {
-  background-color: #1B2050;
+.background{
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("moon.jpg");
-  height: 100%;
-
-  /* Position and center the image to scale nicely on all screens */
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
+  height: 100%;
+}
+.navy {
+  background-color: #1B2050;
 }
 
 .lblue {
@@ -36,4 +36,7 @@ body, html {
 
 .lrnavy {
   background-color: #1D256F;
+}
+.ldblue{
+  background-color:#6D79E8;
 }

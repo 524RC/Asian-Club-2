@@ -107,9 +107,19 @@
                 <div class="lnavy m-3 p-3">
                     <h1 class="lPurple p-5 text-white">Type Any Question You Have Here</h1>
                     <h3 class="m-3 p-3 dPurple text-white">Question</h3>
-                    <h4 class="m-3 p-3 lPurple navbar"><br></h4>
+
+
+                    <h4 class="m-3 p-3 lPurple navbar">
+                        <input id="nameField1" name="nameField1" type="text" class="textfield" value="Whats your question?" onfocus="clearName1()" onblur="resetName1()">
+                    </h4>
                     <h3 class="m-3 p-3 dPurple text-white">Email</h3>
-                    <h4 class="m-3 p-3 lPurple navbar"><br></h4>
+                    <h4 class="m-3 p-3 lPurple navbar">
+                        <input id="emailField" name="emailField" type="text" class="textfield" value="youremail@gmail.com" onfocus="clearEmail()" onblur="resetEmail()">
+                    </h4>
+
+                </div>
+
+
                 </div>
             </div>
         </div>
@@ -132,7 +142,7 @@
             </div>
 
             <div class="col-md-2">
-                <img src="Mask group (1).png">
+                <img src="Mask group-1.png">
             </div>
             <div class="col-md-4">
 
@@ -143,12 +153,19 @@
             <div class="col-md-7">
                 <h1 class="text-white lbluebox m-3">Wanna Know When's The Next Event?</h1>
                 <div class="bg-primary m-3 p-3">
+
                     <h1 class="lnavy p-5 text-white">Got a Suggestion?</h1>
                     <h3 class="m-3 p-3 lbluebox text-white">Suggestion</h3>
-                    <h4 class="m-3 p-3 navbar"><br></h4>
+                    <h4 class="m-3 p-3 navbar">
+                        <input id="nameField" name="nameField" type="text" class="textfield" value="Give a suggestion" onfocus="clearName()" onblur="resetName()">
+                    </h4>
                     <h3 class="m-3 p-3 lbluebox text-white">Email</h3>
-                    <h4 class="m-3 p-3 navbar"><br></h4>
+                    <h4 class="m-3 p-3 navbar">
+                        <input id="emailField1" name="emailField1" type="text" class="textfield" value="youremail@gmail.com" onfocus="clearEmail1()" onblur="resetEmail1()">
+                    </h4>
+
                 </div>
+
             </div>
             <div class="col-md-5">
                 <img class="m-3" src="image 33.png" height="500px" width="500px">
@@ -158,5 +175,6 @@
 
 </div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+    <script src="script.js"></script>
 </body>
 </html>

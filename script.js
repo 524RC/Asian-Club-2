@@ -40,6 +40,7 @@ function resetEmail() {
 }
 
 
-
-
-
+// Figure out how to do the hover thing for the images of the people
+function hover_people() {
+    
+}

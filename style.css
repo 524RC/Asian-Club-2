@@ -9,6 +9,7 @@ body, html {
 }
 .navbar{
 	background-color:#2A3673;
+  padding-right:40px;
 }
 .background{
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("moon.jpg");
@@ -100,3 +101,6 @@ body, html {
   background-color:#E3CDFF;
 }
 
+.logo {
+  padding-left:20px;
+}

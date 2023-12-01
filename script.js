@@ -54,11 +54,7 @@ function person1() {
       .src = "Mask group (2).png";
     document.getElementById('message')
       .innerHTML = "Alayna Zayb";
-    document.getElementById('message1')
-      .innerHTML = "Hey Everyone! Im Alayna Zayb, your president this year for Asian Club. I am excited to host our cherished annual events as well as introduce new and exciting events to the community! I have been in Asian Club since sophomore year, and each year since I have always enjoyed the cultural celebrations and made unforgettable memories with my friends. My goal is to extend the same joy to everyone else attending club activities and events. As your president, I cant wait to make this 2023-2024 year the best one yet!
-      ";
   }
-}
   
   function person2() {
     document.getElementById('myImage')

@@ -39,6 +39,14 @@ function resetEmail() {
     }
 }
 
+$(window).scroll(function() {
+    if ($(document).scrollTop() > 50) {
+      $('nav').addClass('transparent');
+    } else {
+      $('nav').removeClass('transparent');
+    }
+  });
+
 
 // Figure out how to do the hover thing for the images of the people
 function person1() {

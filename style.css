@@ -79,7 +79,7 @@ body, html {
   background-color: #bbb;
   border-radius: 50%;
 
-  position:absolute;
+  position:relative;
  
   z-index: 2;
 }
@@ -99,5 +99,19 @@ body, html {
 
 .lightp {
   background-color:#E3CDFF;
+}
+
+nav.navbar{
+  -webkit-transition: all 0.4s ease;
+  transition: all 0.4s ease;
+}
+
+nav.navbar-inverse {
+   background-color: #222;
+   border-color: #080808;
+}
+
+nav.navbar.transparent {
+ background-color:rgba(0,0,0,0);
 }
 

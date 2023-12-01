@@ -48,6 +48,66 @@ $(window).scroll(function() {
   });
 
 
+// Figure out how to do the hover thing for the images of the people
+function person1() {
+    document.getElementById('myImage')
+      .src = "Mask group (2).png";
+    document.getElementById('message')
+      .innerHTML = "";
+  }
+  
+  function person2() {
+    document.getElementById('myImage')
+      .src = "Mask group (3).png";
+    document.getElementById('message')
+      .innerHTML = "";
+  }
 
+  function person3() {
+    document.getElementById('myImage')
+      .src = "Mask group (4).png";
+    document.getElementById('message')
+      .innerHTML = "";
+  }
 
+  function person4() {
+    document.getElementById('myImage')
+      .src = "Mask group (5).png";
+    document.getElementById('message')
+      .innerHTML = "";
+  }
 
+  function person5() {
+    document.getElementById('myImage')
+      .src = "Mask group (6).png";
+    document.getElementById('message')
+      .innerHTML = "";
+  }
+
+  function person6() {
+    document.getElementById('myImage')
+      .src = "Mask group (7).png";
+    document.getElementById('message')
+      .innerHTML = "";
+  }
+
+  function person7() {
+    document.getElementById('myImage')
+      .src = "Mask group (8).png";
+    document.getElementById('message')
+      .innerHTML = "";
+  }
+
+  function person8() {
+    document.getElementById('myImage')
+      .src = "Mask group (9).png";
+    document.getElementById('message')
+      .innerHTML = "";
+  }
+
+  function person9() {
+    document.getElementById('myImage')
+      .src = "Mask group (10).png";
+    document.getElementById('message')
+      .innerHTML = "";
+  }

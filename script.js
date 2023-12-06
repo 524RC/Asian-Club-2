@@ -51,7 +51,7 @@ $(window).scroll(function() {
 // Figure out how to do the hover thing for the images of the people
 function person1() {
     document.getElementById('myImage')
-      .src = "Mask group (2).png";
+      .src = "updated photos/Alayna-Zayb.jpg";
     document.getElementById('message')
       .innerHTML = "Alayna Zayb";
     document.getElementById('info')
@@ -60,7 +60,7 @@ function person1() {
   
   function person2() {
     document.getElementById('myImage')
-      .src = "Mask group (3).png";
+      .src = "updated photos/Anika-Bhatt.jpg";
     document.getElementById('message')
       .innerHTML = "Anika Bhatt";
     document.getElementById('info')
@@ -69,7 +69,7 @@ function person1() {
 
   function person3() {
     document.getElementById('myImage')
-      .src = "Mask group (4).png";
+      .src = "updated photos/Ann-Alex.jpg";
     document.getElementById('message')
       .innerHTML = "Ann Alex";
     document.getElementById('info')
@@ -78,7 +78,7 @@ function person1() {
 
   function person4() {
     document.getElementById('myImage')
-      .src = "Mask group (5).png";
+      .src = "updated photos/Madelinh-Weiner.png";
     document.getElementById('message')
       .innerHTML = "Madelinh Weiner";
     document.getElementById('info')
@@ -87,7 +87,7 @@ function person1() {
 
   function person5() {
     document.getElementById('myImage')
-      .src = "Mask group (6).png";
+      .src = "updated photos/Annika-Bhatia.jpg";
     document.getElementById('message')
       .innerHTML = "Annika Bhatia";
     document.getElementById('info')
@@ -96,7 +96,7 @@ function person1() {
 
   function person6() {
     document.getElementById('myImage')
-      .src = "Mask group (7).png";
+      .src = "updated photos/Alayna-Lee.jpg";
     document.getElementById('message')
       .innerHTML = "Alayna Lee";
     document.getElementById('info')
@@ -105,7 +105,7 @@ function person1() {
 
   function person7() {
     document.getElementById('myImage')
-      .src = "Mask group (8).png";
+      .src = "updated photos/James-Wang.png";
     document.getElementById('message')
       .innerHTML = "James Wang";
     document.getElementById('info')
@@ -114,7 +114,7 @@ function person1() {
 
   function person8() {
     document.getElementById('myImage')
-      .src = "Mask group (9).png";
+      .src = "updated photos/Niru-Gupta.png";
     document.getElementById('message')
       .innerHTML = "Niru Gupta";
     document.getElementById('info')
@@ -123,7 +123,7 @@ function person1() {
 
   function person9() {
     document.getElementById('myImage')
-      .src = "Mask group (10).png";
+      .src = "updated photos/Sydney-Yuen.png";
     document.getElementById('message')
       .innerHTML = "Sydney Yuen";
     document.getElementById('info')

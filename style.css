@@ -350,3 +350,7 @@ nav.navbar.transparent {
   opacity: 1;
   transition-delay: 400ms;
 }
+
+.active1:active{
+  box-shadow: 10px 5px 5px red !important;
+}

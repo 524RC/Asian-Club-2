@@ -378,3 +378,32 @@ p {
 .bio{
   padding-top:100px;
 }
+.formBox{
+  height:500px;
+  width:1000px;
+  padding-top:10px;
+  padding-left:100px;
+  margin-left:60px;
+  background-color:red;
+}
+.formText{
+  font-size:50px;
+}
+.emailBox{
+  height:100px;
+  width:800px;
+}
+.Email{
+  padding-top:10px;
+}
+.Message{
+  padding-top:10px;
+}
+.messageBox{
+  height:100px;
+  width:600px;
+}
+.sendBox{
+  height:100px;
+  width:200px;
+}

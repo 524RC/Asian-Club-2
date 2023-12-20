@@ -377,7 +377,6 @@ p {
 }
 .bio{
   padding-top:100px;
-<<<<<<< HEAD
 }
 .formBox{
   height:500px;
@@ -408,7 +407,7 @@ p {
   height:100px;
   width:200px;
 }
-=======
+.bio {  
   text-align: end;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   color: #9B2335;
@@ -417,4 +416,3 @@ p {
   color: #C62168;
   font-family: cursive;
 } 
->>>>>>> 4b23b817907eb2f2b38c1ddb15717db912de36e8

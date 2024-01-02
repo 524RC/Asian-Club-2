@@ -109,7 +109,7 @@ function person1() {
     document.getElementById('message')
       .innerHTML = "James Wang";
     document.getElementById('info')
-      .innerHTML = "Hi everyone! In my role as the communications director for the Asian Club this year, I am so thrilled about the upcoming events that will be vibrant celebrations of our diverse asian cultures. Our club is a home for all who wish to embrace the beauty of Asian traditions, fostering an environment of learning and appreciation! I am genuinely excited to promote these goals within our community and create lasting memories that will define this year in the club. 524jwang@frhsd.com ";
+      .innerHTML = "Hi everyone! In my role as the communications director for the Asian Club this year, I am so thrilled about the upcoming events that will be vibrant celebrations of our diverse asian cultures. Our club is a home for all who wish to embrace the beauty of Asian traditions, fostering an environment of learning and appreciation! I am genuinely excited to promote these goals within our community and create lasting memories that will define this year in the club. 524jwang@frhsd.com 524agupta@frhsd.com";
   }
 
   function person8() {

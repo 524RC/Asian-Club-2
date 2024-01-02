@@ -72,7 +72,7 @@ margin-top: 20px;
 }
 
 .lblue {
-  background-color: #A6AFFF;
+  background-color: #8490f7;
 }
 
 .lrblue {
@@ -270,7 +270,7 @@ nav.navbar.transparent {
 .filePage{
   margin-top:200px;
   margin-bottom: 200px;
-  background-color:#6D8CF9
+  background-color:hsl(234, 45%, 56%)
 }
 
 @import url("https://fonts.googleapis.com/css2?family=Figtree&display=swap");
@@ -426,11 +426,7 @@ p {
 
 
 
-body {
-  width: 100%;
-  height: 100%;
-  background-color: #34495e;
-}
+
 .content {
   position: absolute;
   top: 50%;
